@@ -53,3 +53,27 @@ when weaving
 2015-10-07 20:19:09,860  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
 2015-10-07 20:19:09,877  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
 2015-10-07 20:19:09,877  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:26:49,950 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 20:26:50,010 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 20:26:50,803  WARN [main] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:26:50,804  WARN [main] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:26:50,809  WARN [main] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:26:50,810  WARN [main] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:27:12,927 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.RetargettableActionAdapterFactory
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 20:27:12,969 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
