@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+C:\Users\Pawel\Documents\GitHub\Scala\New-Repo-To-Check-Properly-of-Theory\.metadata\.plugins\org.eclipse.jdt.core
+699963264.index
+2640341514.index
+2866468083.index
+2485892490.index
+3239276831.index

@@ -1,0 +1,55 @@
+2015-10-07 19:51:54,597 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 19:51:54,650 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 19:52:00,960 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.RetargettableActionAdapterFactory
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 19:52:01,028 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 20:11:24,076  WARN [ModalContext] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:11:24,078  WARN [ModalContext] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:11:24,841  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:11:24,842  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:11:39,608  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:11:39,608  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:11:39,628  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:11:39,628  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:16:54,963  WARN [main] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:16:54,963  WARN [main] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:16:56,907  WARN [main] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:16:56,907  WARN [main] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:16:57,389  WARN [Worker-17] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:16:57,390  WARN [Worker-17] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:16:57,417  WARN [Worker-17] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:16:57,417  WARN [Worker-17] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:17:00,643  WARN [Worker-17] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:17:00,644  WARN [Worker-17] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:17:16,898 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-07 20:18:10,981  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:18:10,981  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:18:10,998  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:18:10,999  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:18:11,714  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:18:11,714  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:19:09,844  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:19:09,844  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:19:09,860  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:19:09,860  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
+2015-10-07 20:19:09,877  WARN [Worker-14] - ScalaProject - Project TempScalaProject has platform default sourceLevel.
+2015-10-07 20:19:09,877  WARN [Worker-14] - ScalaProject - Project TempScalaProject runs on platform default installation.
